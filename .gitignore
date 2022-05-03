@@ -1,0 +1,6 @@
+node_modules
+dist
+src/assets/img/**
+src/assets/tilemaps/**
+src/assets/spritesheets/**
+pwa/icons
